@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wichtel/static/css/main.5c93496e.css",
+    "main.css": "/wichtel/static/css/main.c643ce00.css",
     "main.js": "/wichtel/static/js/main.518c3e41.js",
     "static/js/488.9b3a2a4e.chunk.js": "/wichtel/static/js/488.9b3a2a4e.chunk.js",
     "index.html": "/wichtel/index.html",
-    "main.5c93496e.css.map": "/wichtel/static/css/main.5c93496e.css.map",
+    "main.c643ce00.css.map": "/wichtel/static/css/main.c643ce00.css.map",
     "main.518c3e41.js.map": "/wichtel/static/js/main.518c3e41.js.map",
     "488.9b3a2a4e.chunk.js.map": "/wichtel/static/js/488.9b3a2a4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c93496e.css",
+    "static/css/main.c643ce00.css",
     "static/js/main.518c3e41.js"
   ]
 }
